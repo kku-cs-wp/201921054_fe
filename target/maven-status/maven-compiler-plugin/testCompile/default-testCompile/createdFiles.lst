@@ -1,0 +1,7 @@
+kr\ac\kku\cs\wp\wsd\user\controller\UserControllerJpaTest.class
+kr\ac\kku\cs\wp\wsd\demo\HellControllerTest.class
+kr\ac\kku\cs\wp\wsd\user\service\UserServiceSHImpleTest.class
+kr\ac\kku\cs\wp\wsd\user\repository\UserJdbcRepositoryTest.class
+kr\ac\kku\cs\wp\wsd\user\service\UserServiceJdbcTest.class
+kr\ac\kku\cs\wp\wsd\support\sql\HibernateUtilTest.class
+kr\ac\kku\cs\wp\wsd\user\controller\UserControllerTest.class
